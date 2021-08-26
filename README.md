@@ -1,2 +1,2 @@
-# personal_website
-Personal website
+# Personal Website
+Basic website made from Bootstrap
